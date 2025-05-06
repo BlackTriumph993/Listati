@@ -1,0 +1,1 @@
+sourceanalyzer -b VulnCpp gcc -Iinclude -c *.c 
